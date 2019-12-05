@@ -49,5 +49,5 @@ It is a great way to identify semantic similarities between words in the corpus 
 
 Thanks to the authors of these articles!
 
-1) <a href="https://towardsdatascience.com/understanding-word2vec-embedding-in-practice-3e9b8985953">Understanding Word2vec Embedding in Practice</a> (Medium Article).
-2) <a href="https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b">Visualising high-dimensional datasets using PCA and t-SNE in Python</a> (StackAbuse Article).
+1) <a href="https://towardsdatascience.com/understanding-word2vec-embedding-in-practice-3e9b8985953">Understanding Word2vec Embedding in Practice</a> (TowardsDataScience Article).
+2) <a href="https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b">Visualising high-dimensional datasets using PCA and t-SNE in Python</a> (TowardsDataScience Article).
