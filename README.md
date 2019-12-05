@@ -41,6 +41,8 @@ The word embeddings are created using `Word2Vec` model. I used all but one cores
 
 If you look at the image (`tsne_plot_word2vec.png`) created after the program execution, you would notice clusters of words with semantic similarities.
 
+<img src="./plots/tsne_plot_word2vec.png">
+
 Example, there is cluster with words - `"neural"`, `"network"`, and `"architecture"`, another cluster with words - `"machine"`, `"deep"`, `"learning"`, and `"learn"`.
 
 It is a great way to identify semantic similarities between words in the corpus and looking at the results, it actually makes sense from a human perspective.
